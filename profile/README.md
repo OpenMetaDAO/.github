@@ -20,11 +20,11 @@ Unreal engine 5
 Unreal engine 4.27
 
 
- Main features     
+ Main features:     
 
-Integrating existing NFT collections and assign utility for them
-Launching and manging immersive DAOs 
-A new auction mechanism designed for games  
+-Integrating existing NFT collections and assign utility for them
+-Launching and manging immersive DAOs 
+-A new auction mechanism designed for games  
 
 
 
