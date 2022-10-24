@@ -1,30 +1,34 @@
 # Building the Metaverse.
 ## Currently 🏗️👷 - Come and help us contribute!
 
-![openmetalogo](https://user-images.githubusercontent.com/106816919/172276430-55ada1d9-c904-4aa8-8e05-6936753a29ca.png)
+![Gitcoincover](https://user-images.githubusercontent.com/106816919/197574916-e7ca134d-f087-4018-a3db-93e8b2e02922.png)
+
 
 TL;DR
 
 
-Open Meta is an open source SDK for game engines such as Unreal engine 5 and Unity enabling simple integration of NFTs in games, virtual experiences and the open Metaverse. The aim of this project is to enable a bridging mechanism which will allow existing NFTs to be used as digital assets ( As an example; game characters, in-game items, levels, and more) and allow these digital assets to be fully interoperable within an open ecosystem as well as allowing them to gain unlimited utilities. 
+Open Meta is an advanced NFT interoperability layer; allowing any NFT from any blockchain protocol to be integrated and licensed in mainstream games, immersive experiences and films. 
 
-Supported Networks - v1
+Supported Networks - Alpha
 
 Ethereum 
 Optimism 
+Polygon
+BSC
+Arbitrum
 
 
-Supported game engines - v1
+Supported game engines - Alpha
 
 Unreal engine 5
-Unreal engine 4.27
 
 
  Main features:     
 
 -Integrating existing NFT collections and assign utility for them
--Launching and manging immersive DAOs 
--A new auction mechanism designed for games  
+-Integrate multiple collections from multiple protocol and easily add them to a single project. 
+-Mainstream experince ( No wallet needed ) 
+ 
 
 
 
